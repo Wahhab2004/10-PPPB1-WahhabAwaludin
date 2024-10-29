@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/vector"
+        android:title="Home" />
+    <item
+        android:id="@+id/cartFragment"
+        android:icon="@drawable/vector_1"
+        android:title="Keranjang" />
+    <item
+        android:id="@+id/inboxFragment"
+        android:icon="@drawable/vector_2"
+        android:title="Diskon" />
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/vector_3"
+        android:title="Profile" />
+</menu>
